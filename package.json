@@ -1,0 +1,12 @@
+{
+  "name": "undefined-fallback-loader",
+  "description": "Pass undefined when null is received",
+  "version": "1.0.0",
+  "contributors": [
+    "Lisard K <lisardo@getsurance.de>"
+  ],
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
